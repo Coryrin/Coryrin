@@ -1,4 +1,9 @@
-### Hi there 👋
+I'm Cory, a Python & PHP developer.
+
+I'm currently working as a Full Stack Developer at Hoowla.
+
+📫 You can reach me at: <a href="https://corymeikle.co.uk" target="_blank">my website</a> or on <a href="https://twitter.com/CoryJDMeikle" target="_blank">Twitter</a>
+
 
 <!--
 **Coryrin/Coryrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
