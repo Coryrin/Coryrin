@@ -4,6 +4,8 @@ I've also picked up blogging, and am enjoying it! You can read my blog on my web
 
 📫 You can reach me at: <a href="https://corymeikle.com" target="_blank">my website</a> or on <a href="https://twitter.com/CoryJDMeikle" target="_blank">Twitter</a>
 
+🌱 I’m currently learning Typescript - it's a lot of fun!
+
 
 <!--
 **Coryrin/Coryrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
