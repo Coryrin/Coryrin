@@ -1,8 +1,8 @@
-I'm Cory, a Python & PHP developer.
+I'm Cory, a Full Stack Software Engineer.
 
-I'm currently working as a Full Stack Developer at Hoowla.
+I've also picked up blogging, and am enjoying it! You can read my blog at my website below.
 
-📫 You can reach me at: <a href="https://corymeikle.co.uk" target="_blank">my website</a> or on <a href="https://twitter.com/CoryJDMeikle" target="_blank">Twitter</a>
+📫 You can reach me at: <a href="https://corymeikle.com" target="_blank">my website</a> or on <a href="https://twitter.com/CoryJDMeikle" target="_blank">Twitter</a>
 
 
 <!--
