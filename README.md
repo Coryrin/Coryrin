@@ -4,7 +4,7 @@ I've also picked up blogging, and am enjoying it! You can read my blog on my web
 
 📫 You can reach me at: <a href="https://corymeikle.com" target="_blank">my website</a> or on <a href="https://twitter.com/CoryJDMeikle" target="_blank">Twitter</a>
 
-🌱 I’m currently learning Typescript - it's a lot of fun!
+🔭 I’m currently working on Mythic Rating Helper - a discord bot that can help WoW players improve their mythic rating score by returning the optimal dungeons for them to run.
 
 
 <!--
