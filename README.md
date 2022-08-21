@@ -5,8 +5,7 @@
 📖 I regularly write blog posts on <a href="https://www.corymeikle.com/" target="_blank">my website</a>.<br />
 💬 Ask me about being a Scrum Master, and leadership in general.<br/>
 📄 Check out my <a href="https://cory-m-portfolio-files.s3.eu-west-2.amazonaws.com/Cory-Meikle.pdf" target="blank">CV</a>.
-
-🔭 I’m currently working on Mythic Rating Helper - a discord bot that can help WoW players improve their mythic rating score by returning the optimal dungeons for them to run.
+🔭 I’m currently working on Mythic Rating Helper - a discord bot that can help World of Warcraft players improve their mythic rating score by returning the optimal dungeons for them to run.
 
 ## Languages
 <p>
@@ -17,6 +16,9 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%234B8BBE.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23484C89.svg?logo=php&logoColor=white"></a>
 </p>
+
+## GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coryrin&show_icons=true&count_private=true&theme=tokyonight)
 
 <!--
 **Coryrin/Coryrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
