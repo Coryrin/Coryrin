@@ -4,8 +4,8 @@
 
 📖 I regularly write blog posts on <a href="https://www.corymeikle.com/" target="_blank">my website</a>.<br />
 💬 Ask me about being a Scrum Master, and leadership in general.<br/>
-📄 Check out my <a href="https://cory-m-portfolio-files.s3.eu-west-2.amazonaws.com/Cory-Meikle.pdf" target="blank">CV</a>.
-🔭 I’m currently working on Mythic Rating Helper - a discord bot that can help World of Warcraft players improve their mythic rating score by returning the optimal dungeons for them to run.
+📄 Check out my <a href="https://cory-m-portfolio-files.s3.eu-west-2.amazonaws.com/Cory-Meikle.pdf" target="blank">CV</a>.<br />
+🔭 I’m currently working on [QuoteForge](https://quoteforge.io/) - a SaaS that allows companies & individuals to create quote calculators, streamlining their lead generation.
 
 ## Languages
 <p>
